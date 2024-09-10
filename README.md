@@ -40,6 +40,16 @@
   <img src="https://img.shields.io/badge/Unity-2C2C32.svg?style=for-the-badge&logo=Unity&logoColor=F37726" />&nbsp
 </div>
 
+<br>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="mailto:revenronow@gmail.com">
+    <img
+      src="https://img.shields.io/badge/revenronow@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+
 <!--
 **revenronow/revenronow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
