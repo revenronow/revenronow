@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Never%20or%20Now&fontSize=90" />
 
-<br>
-<h3 align="center">이희원입니다</h3>
-
 <!--내용 부분-->
 <br>
 <h3 align="center">✨ Tech Stack ✨</h3>
